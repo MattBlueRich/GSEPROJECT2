@@ -1,0 +1,5 @@
+Found bugs:
+zombie flying off when shot
+
+Fixed bugs:
+collision on some floors - Eddie
