@@ -3,7 +3,9 @@ zombie flying off when shot
 zombies can rotate while walking and then will no longer walk on the ground (in extrem cases the can walk 90 degree to the ground)
 when hold some weapons the gun/arms are below the camera
 Held Bullet count doesnt change until the weapon has been reloaded (so unitil the weapon is reloaded it will display the old number of bullets held)
-game doesnt really end when you die, you lose controll and the health will just carry on going into minus numbers
+current ammo count isnt changed until a bullet is shot
+game doesnt really end when you die, you lose control and the health will just carry on going into minus numbers
+colliders aren't the same as the mesh on some of the floors 
 
 Fixed bugs:
 collisions on some floors in the test level - Jin
