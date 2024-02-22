@@ -1,0 +1,7 @@
+Found bugs:
+zombie flying off when shot
+zombies can rotate while walking and then will no longer walk on the ground (in extrem cases the can walk 90 degree to the ground)
+when hold some weapons the gun/arms are below the camera
+Held Bullet count doesnt change until the weapon has been reloaded (so unitil the weapon is reloaded it will display the old number of bullets held)
+current ammo count isnt changed until a bullet is shot
+colliders aren't the same as the mesh on some of the floors 
